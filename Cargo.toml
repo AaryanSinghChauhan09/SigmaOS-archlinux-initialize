@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-initialize component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-initialize"
+name = "sigmaos_archlinux_initialize"
 path = "src/lib.rs"
