@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-initialize"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-initialize component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
